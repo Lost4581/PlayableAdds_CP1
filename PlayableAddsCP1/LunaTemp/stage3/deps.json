@@ -1,0 +1,115 @@
+{
+  "ignores": [],
+  "groups": [
+    [
+      "D:/GitHub/PlayableAddsCP1/LunaTemp/stage3/processed-scripts/Assets/ClickTarget.cs",
+      "D:/GitHub/PlayableAddsCP1/LunaTemp/stage3/processed-scripts/Assets/GameManager.cs",
+      "D:/GitHub/PlayableAddsCP1/LunaTemp/stage3/processed-scripts/Assets/PulseTarget.cs"
+    ],
+    [
+      "D:/GitHub/PlayableAddsCP1/LunaTemp/stage3/processed-scripts/Assets/TextMesh Pro/Examples \u0026 Extras/Scripts/Benchmark01_UGUI.cs"
+    ],
+    [
+      "D:/GitHub/PlayableAddsCP1/LunaTemp/stage3/processed-scripts/Assets/TextMesh Pro/Examples \u0026 Extras/Scripts/Benchmark01.cs"
+    ],
+    [
+      "D:/GitHub/PlayableAddsCP1/LunaTemp/stage3/processed-scripts/Assets/TextMesh Pro/Examples \u0026 Extras/Scripts/Benchmark02.cs",
+      "D:/GitHub/PlayableAddsCP1/LunaTemp/stage3/processed-scripts/Assets/TextMesh Pro/Examples \u0026 Extras/Scripts/TextMeshProFloatingText.cs",
+      "D:/GitHub/PlayableAddsCP1/LunaTemp/stage3/processed-scripts/Assets/TextMesh Pro/Examples \u0026 Extras/Scripts/TextMeshSpawner.cs"
+    ],
+    [
+      "D:/GitHub/PlayableAddsCP1/LunaTemp/stage3/processed-scripts/Assets/TextMesh Pro/Examples \u0026 Extras/Scripts/Benchmark03.cs"
+    ],
+    [
+      "D:/GitHub/PlayableAddsCP1/LunaTemp/stage3/processed-scripts/Assets/TextMesh Pro/Examples \u0026 Extras/Scripts/Benchmark04.cs"
+    ],
+    [
+      "D:/GitHub/PlayableAddsCP1/LunaTemp/stage3/processed-scripts/Assets/TextMesh Pro/Examples \u0026 Extras/Scripts/CameraController.cs"
+    ],
+    [
+      "D:/GitHub/PlayableAddsCP1/LunaTemp/stage3/processed-scripts/Assets/TextMesh Pro/Examples \u0026 Extras/Scripts/ChatController.cs"
+    ],
+    [
+      "D:/GitHub/PlayableAddsCP1/LunaTemp/stage3/processed-scripts/Assets/TextMesh Pro/Examples \u0026 Extras/Scripts/DropdownSample.cs"
+    ],
+    [
+      "D:/GitHub/PlayableAddsCP1/LunaTemp/stage3/processed-scripts/Assets/TextMesh Pro/Examples \u0026 Extras/Scripts/EnvMapAnimator.cs"
+    ],
+    [
+      "D:/GitHub/PlayableAddsCP1/LunaTemp/stage3/processed-scripts/Assets/TextMesh Pro/Examples \u0026 Extras/Scripts/ObjectSpin.cs"
+    ],
+    [
+      "D:/GitHub/PlayableAddsCP1/LunaTemp/stage3/processed-scripts/Assets/TextMesh Pro/Examples \u0026 Extras/Scripts/ShaderPropAnimator.cs"
+    ],
+    [
+      "D:/GitHub/PlayableAddsCP1/LunaTemp/stage3/processed-scripts/Assets/TextMesh Pro/Examples \u0026 Extras/Scripts/SimpleScript.cs"
+    ],
+    [
+      "D:/GitHub/PlayableAddsCP1/LunaTemp/stage3/processed-scripts/Assets/TextMesh Pro/Examples \u0026 Extras/Scripts/SkewTextExample.cs"
+    ],
+    [
+      "D:/GitHub/PlayableAddsCP1/LunaTemp/stage3/processed-scripts/Assets/TextMesh Pro/Examples \u0026 Extras/Scripts/TeleType.cs"
+    ],
+    [
+      "D:/GitHub/PlayableAddsCP1/LunaTemp/stage3/processed-scripts/Assets/TextMesh Pro/Examples \u0026 Extras/Scripts/TextConsoleSimulator.cs"
+    ],
+    [
+      "D:/GitHub/PlayableAddsCP1/LunaTemp/stage3/processed-scripts/Assets/TextMesh Pro/Examples \u0026 Extras/Scripts/TMP_DigitValidator.cs"
+    ],
+    [
+      "D:/GitHub/PlayableAddsCP1/LunaTemp/stage3/processed-scripts/Assets/TextMesh Pro/Examples \u0026 Extras/Scripts/TMP_ExampleScript_01.cs"
+    ],
+    [
+      "D:/GitHub/PlayableAddsCP1/LunaTemp/stage3/processed-scripts/Assets/TextMesh Pro/Examples \u0026 Extras/Scripts/TMP_FrameRateCounter.cs"
+    ],
+    [
+      "D:/GitHub/PlayableAddsCP1/LunaTemp/stage3/processed-scripts/Assets/TextMesh Pro/Examples \u0026 Extras/Scripts/TMP_PhoneNumberValidator.cs"
+    ],
+    [
+      "D:/GitHub/PlayableAddsCP1/LunaTemp/stage3/processed-scripts/Assets/TextMesh Pro/Examples \u0026 Extras/Scripts/TMP_TextEventCheck.cs",
+      "D:/GitHub/PlayableAddsCP1/LunaTemp/stage3/processed-scripts/Assets/TextMesh Pro/Examples \u0026 Extras/Scripts/TMP_TextEventHandler.cs"
+    ],
+    [
+      "D:/GitHub/PlayableAddsCP1/LunaTemp/stage3/processed-scripts/Assets/TextMesh Pro/Examples \u0026 Extras/Scripts/TMP_TextInfoDebugTool.cs"
+    ],
+    [
+      "D:/GitHub/PlayableAddsCP1/LunaTemp/stage3/processed-scripts/Assets/TextMesh Pro/Examples \u0026 Extras/Scripts/TMP_TextSelector_A.cs"
+    ],
+    [
+      "D:/GitHub/PlayableAddsCP1/LunaTemp/stage3/processed-scripts/Assets/TextMesh Pro/Examples \u0026 Extras/Scripts/TMP_TextSelector_B.cs"
+    ],
+    [
+      "D:/GitHub/PlayableAddsCP1/LunaTemp/stage3/processed-scripts/Assets/TextMesh Pro/Examples \u0026 Extras/Scripts/TMP_UiFrameRateCounter.cs"
+    ],
+    [
+      "D:/GitHub/PlayableAddsCP1/LunaTemp/stage3/processed-scripts/Assets/TextMesh Pro/Examples \u0026 Extras/Scripts/TMPro_InstructionOverlay.cs"
+    ],
+    [
+      "D:/GitHub/PlayableAddsCP1/LunaTemp/stage3/processed-scripts/Assets/TextMesh Pro/Examples \u0026 Extras/Scripts/VertexColorCycler.cs"
+    ],
+    [
+      "D:/GitHub/PlayableAddsCP1/LunaTemp/stage3/processed-scripts/Assets/TextMesh Pro/Examples \u0026 Extras/Scripts/VertexJitter.cs"
+    ],
+    [
+      "D:/GitHub/PlayableAddsCP1/LunaTemp/stage3/processed-scripts/Assets/TextMesh Pro/Examples \u0026 Extras/Scripts/VertexShakeA.cs"
+    ],
+    [
+      "D:/GitHub/PlayableAddsCP1/LunaTemp/stage3/processed-scripts/Assets/TextMesh Pro/Examples \u0026 Extras/Scripts/VertexShakeB.cs"
+    ],
+    [
+      "D:/GitHub/PlayableAddsCP1/LunaTemp/stage3/processed-scripts/Assets/TextMesh Pro/Examples \u0026 Extras/Scripts/VertexZoom.cs"
+    ],
+    [
+      "D:/GitHub/PlayableAddsCP1/LunaTemp/stage3/processed-scripts/Assets/TextMesh Pro/Examples \u0026 Extras/Scripts/WarpTextExample.cs"
+    ],
+    [
+      "C:/Users/glezn/OneDrive/\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B/7.2.0/pipeline/templates/LunaCompiler/Scripts/Properties/AssemblyInfo.cs"
+    ],
+    [
+      "C:/Users/glezn/OneDrive/\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B/7.2.0/pipeline/templates/LunaCompiler/Scripts/Sources/OtherDummyScript.cs"
+    ],
+    [
+      "C:/Users/glezn/OneDrive/\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B/7.2.0/pipeline/templates/LunaCompiler/Scripts/obj/Debug/.NETFramework,Version=v4.7.AssemblyAttributes.cs"
+    ]
+  ]
+}
